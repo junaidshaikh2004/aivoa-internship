@@ -1,2 +1,6 @@
 psycopg2-binary
 python-dotenv
+langgraph
+groq
+pypdf
+fpdf2
