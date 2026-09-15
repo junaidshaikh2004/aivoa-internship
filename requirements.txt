@@ -4,3 +4,6 @@ langgraph
 groq
 pypdf
 fpdf2
+fastapi
+uvicorn
+python-multipart
